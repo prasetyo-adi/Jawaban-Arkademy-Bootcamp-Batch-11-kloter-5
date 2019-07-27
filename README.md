@@ -5,7 +5,7 @@ Jawaban arkademy bootcamp arkademy batch 11 kloter 5,yang saya jawab dengan penu
 yaitu,XAMPP, Nodejs, Browser.
 
 # Cara menjalankan program:
--Untuk soal nomor 1 s/d 6 bisa di jalankan di Nodejs atau di https://es6console.com/
+-Untuk soal nomor 1 s/d 5 bisa di jalankan di Nodejs atau di https://es6console.com/
 untuk Soal nomor 6:
 1.Aktifkan XAMPP
 2.Buka file directory 06, lalu pilih file yang ingin dibuka(semua berformat .html)

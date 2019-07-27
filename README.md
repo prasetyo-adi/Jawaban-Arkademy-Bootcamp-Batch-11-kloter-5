@@ -8,7 +8,7 @@ yaitu,XAMPP, Nodejs, Browser.
 -Untuk soal nomor 1 s/d 5 bisa di jalankan di Nodejs atau di https://es6console.com/
 untuk Soal nomor 6:
 1.Aktifkan XAMPP
-2.Buka file directory 06, lalu pilih file yang ingin dibuka(semua berformat .html)
+2.Buka file directory 06(maaf karena saya harus mengkompress file menjadi zip karena laptop saya tidak dapat mengupload directory tanpa mengkompressnya), lalu pilih file yang ingin dibuka(semua berformat .html)
 3.pilih buka dengan browser.
 
 # Screnshoot
